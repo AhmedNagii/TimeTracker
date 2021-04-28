@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:time_tracker_course/app/sign_in/widgets/cutome_elevatedButton.dart';
+import '../widgets/cutome_elevatedButton.dart';
 
 class SocialSignInButton extends CustomElevatedButton {
   SocialSignInButton({
